@@ -28,7 +28,7 @@ const MainPage = () => {
               </div>
           </div>
           <p className='text-6xl text-white z-10'>Take on Any Challenge of the Digital World</p>
-          <p className='text-lg text-white text-center py-5 px-20 z-10'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis animi nihil ad numquam voluptas eum in alias iusto esse incidunt, commodi dolore ducimus inventore magni explicabo tempore aliquid culpa blanditiis, iure, quo libero voluptatibus a repellat? Quo eligendi aliquid cumque cum dolore.</p>
+          <p className='text-lg text-white text-center py-5 px-20 z-10'>Nguyễn Huỳnh Phúc</p>
       </div>
 
       {signup && 

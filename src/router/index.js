@@ -10,7 +10,7 @@ const Router = [
     {
         path:"login",
         element:<Login />
-    },
+    }
 ]
 
 export default Router

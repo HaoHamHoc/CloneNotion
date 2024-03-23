@@ -10,7 +10,7 @@ function App() {
   return (
       <Routes>
           {
-            Router.map(item => <Route path={item.path} element={item.element}/>)
+            Router.map((item, index) => <Route path={item.path} element={item.element} key={index}/>)
           }
       </Routes>
   );
